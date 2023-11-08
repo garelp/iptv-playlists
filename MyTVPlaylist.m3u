@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:47,TF1
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:50,France 2
+http://livetv.ktv.zone/104/play.m3u8
+#EXTINF:50,France 3
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:50,France 4
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF:0,France 5
+http://livetv.ktv.zone/107/play.m3u8
+#EXTINF:60,Arte Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:60,M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:130,Paris Premiere
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+#EXTINF:49,TMC
+http://livetv.ktv.zone/12/play.m3u8
+#EXTINF:0,NRJ 12 (1080p)
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:78,BFMTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:42,TFX
+http://livetv.ktv.zone/13/play.m3u8
+#EXTINF:0,Gulli
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF:60,Tiji (1080p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:50,TF1 Series Films
+http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:0,L'EQUIPE 21 TV
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:60,CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:30,Euronews Français (720p)
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:78, like Gecko) Chrome/108.0.0.0 Safari/537.36" - BFM Paris Île-de-France (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
+#EXTINF:60,TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:14,Fun Radio (720p)
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:8,BBC News
+http://92.114.85.81:8000/play/a00a/index.m3u8
+#EXTINF:28,BBC Two
+https://helpfulpost.net/bbctwo/index.m3u8
+#EXTINF:28,BBC Four Ⓢ
+https://helpfulpost.net/bbcfour/index.m3u8
+#EXTINF:8,ITV1 HD
+http://92.114.85.81:8000/play/a00y/index.m3u8
+#EXTINF:0,ITV 2
+http://92.114.85.77:8000/play/a041
+#EXTINF:0,ITV 3
+http://92.114.85.77:8000/play/a04z
+#EXTINF:0,Channel 4
+http://92.114.85.77:8000/play/a0b9
