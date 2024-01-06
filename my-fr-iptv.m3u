@@ -9,21 +9,21 @@ http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/154
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/156
 #EXTINF:0 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",|FR| FRANCE 2 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/159
-#EXTINF:0 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",|FR| FRANCE 3 HD
+#EXTINF:0 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="General",|FR| FRANCE 3 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/162
-#EXTINF:0,|FR| FRANCE 4 HD
+#EXTINF:0 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",|FR| FRANCE 4 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/165
-#EXTINF:0,|FR| FRANCE 5 HD
+#EXTINF:0 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",|FR| FRANCE 5 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/168
 #EXTINF:0,|FR| 6Ter HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/174
-#EXTINF:0,|FR| C8 HD
+#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="Entertainment",|FR| C8 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/177
 #EXTINF:0,|FR| W9 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/180
-#EXTINF:0,|FR| ARTE HD
+#EXTINF:0 tvg-name="Arte.fr",|FR| ARTE HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/183
-#EXTINF:0,|FR| PARIS PREMIERE HD
+#EXTINF:0 tvg-name="Paris Premiere",|FR| PARIS PREMIERE HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/186
 #EXTINF:0,|FR| RTL 9 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/189
@@ -31,7 +31,7 @@ http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/189
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/192
 #EXTINF:0,|FR| TMC HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/195
-#EXTINF:0,|FR| TF1 SERIES FILMS HD
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",|FR| TF1 SERIES FILMS HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/198
 #EXTINF:0,|FR| TFX HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/201
@@ -57,7 +57,7 @@ http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/228
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/290
 #EXTINF:0,|FR| FRANCE INFO HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/293
-#EXTINF:0,|FR| BFMTV HD
+#EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",|FR| BFMTV HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/296
 #EXTINF:0,|FR| BFM BUSINESS HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/299
