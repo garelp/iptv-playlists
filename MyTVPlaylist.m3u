@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:47,TF1
+#EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1
 http://livetv.ktv.zone/3/play.m3u8
-#EXTINF:50,France 2
+#EXTINF:0 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",France 2
 http://livetv.ktv.zone/104/play.m3u8
-#EXTINF:50,France 3
+#EXTINF:0 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="General",France 3
 http://livetv.ktv.zone/105/play.m3u8
-#EXTINF:50,France 4
+#EXTINF:0 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",France 4
 http://livetv.ktv.zone/116/play.m3u8
-#EXTINF:0,France 5
+#EXTINF:0 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",France 5
 http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:-1 tvg-name="Arte.fr",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:60,M6
+#EXTINF:0 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-name="Paris Premiere",Paris Premiere
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
-#EXTINF:49,TMC
+#EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Entertainment",TMC
 http://livetv.ktv.zone/12/play.m3u8
 #EXTINF:0,NRJ 12 (1080p)
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:78,BFMTV
+#EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:42,TFX
+#EXTINF:0 tvg-name="NT1.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Entertainment,TFX
 http://livetv.ktv.zone/13/play.m3u8
-#EXTINF:0,Gulli
+#EXTINF:0 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:60,Tiji (1080p)
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-#EXTINF:50,TF1 Series Films
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Series Films
 http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:0,L'EQUIPE 21 TV
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
