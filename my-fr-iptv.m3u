@@ -15,25 +15,25 @@ http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/162
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/165
 #EXTINF:0 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",|FR| FRANCE 5 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/168
-#EXTINF:0,|FR| 6Ter HD
+#EXTINF:0 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",|FR| 6Ter HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/174
 #EXTINF:0 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="Entertainment",|FR| C8 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/177
-#EXTINF:0,|FR| W9 HD
+#EXTINF:0 tvg-id="W9.fr" tvg-logo="https://i.imgur.com/7FFFvCN.jpg" group-title="Entertainment",|FR| W9 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/180
-#EXTINF:0 tvg-name="Arte.fr",|FR| ARTE HD
+#EXTINF:0 tvg-name="Arte.fr" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="General",|FR| ARTE HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/183
-#EXTINF:0 tvg-name="Paris Premiere",|FR| PARIS PREMIERE HD
+#EXTINF:0 tvg-name="ParisPremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="General",|FR| PARIS PREMIERE HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/186
-#EXTINF:0,|FR| RTL 9 HD
+#EXTINF:0 tvg-name="RTL9.lu" tvg-logo="https://i.imgur.com/vMVdNtq.png" group-title="General",|FR| RTL 9 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/189
 #EXTINF:0,|FR| 13EME RUE HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/192
-#EXTINF:0,|FR| TMC HD
+#EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Entertainment",|FR| TMC HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/195
 #EXTINF:0 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",|FR| TF1 SERIES FILMS HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/198
-#EXTINF:0,|FR| TFX HD
+#EXTINF:0 tvg-name="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Entertainment,|FR| TFX HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/201
 #EXTINF:0,|FR| CHERIE 25 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/204
@@ -55,7 +55,7 @@ http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/225
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/228
 #EXTINF:0,|FR| FRANCE 24 HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/290
-#EXTINF:0,|FR| FRANCE INFO HD
+#EXTINF:0 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News",|FR| FRANCE INFO HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/293
 #EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",|FR| BFMTV HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/296
@@ -63,7 +63,7 @@ http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/296
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/299
 #EXTINF:0,|FR| BFM PARIS HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/302
-#EXTINF:0,|FR| C NEWS HD
+#EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",|FR| C NEWS HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/307
 #EXTINF:0,|FR| EURONEWS HD
 http://1.ott4k.cz:80/7r9aEGGrwAFW/rrTD722ND56H/311
