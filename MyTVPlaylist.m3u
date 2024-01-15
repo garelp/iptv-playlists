@@ -12,16 +12,16 @@ http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:-1 tvg-name="Arte.fr",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+http://livetv.ktv.zone/8/play.m3u8
 #EXTINF:-1 tvg-name="Paris Premiere",Paris Premiere
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
-#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="Entertainment",|FR| C8 HD
+#EXTINF:0 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="Entertainment",C8
 http://livetv.ktv.zone/10/play.m3u8
 #EXTINF:0 tvg-id="W9.fr" tvg-logo="https://i.imgur.com/7FFFvCN.jpg" group-title="Entertainment",W9
 http://livetv.ktv.zone/11/play.m3u8
 #EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Entertainment",TMC
 http://livetv.ktv.zone/12/play.m3u8
-#EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://i.imgur.com/Lv66Gcv.png" group-title="Entertainment",NRJ 12 (1080p)
+#EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://i.imgur.com/Lv66Gcv.png" group-title="Entertainment",NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
 #EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
