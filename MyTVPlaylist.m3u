@@ -16,7 +16,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-name="Paris Premiere",Paris Premiere
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 #EXTINF:0 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="Entertainment",C8
-http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/43230
+https://www.dailymotion.com/video/x5gv5rr
 #EXTINF:0 tvg-id="W9.fr" tvg-logo="https://i.imgur.com/7FFFvCN.jpg" group-title="Entertainment",W9
 http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/43241
 #EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Entertainment",TMC
@@ -27,9 +27,9 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:0 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews
-http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/43229
+https://www.dailymotion.com/video/x3b68jn
 #EXTINF:0 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News",FRANCE INFO
-http://livetv.ktv.zone/29/play.m3u8
+https://www.youtube.com/c/franceinfo/live
 #EXTINF:0 tvg-name="NT1.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Entertainment,TFX
 http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/43240
 #EXTINF:0 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli
