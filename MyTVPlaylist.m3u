@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:0 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1
-http://x.rprotv.com:25443/live/6544458469/HA15G32MNS/9210.ts
+http://77448143521312824.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312824.ts
 #EXTINF:0 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="General",France 2
-http://x.rprotv.com:25443/live/6544458469/HA15G32MNS/9546.ts
+http://77448143521712460.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/712460.ts
 #EXTINF:0 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="General",France 3
-http://x.rprotv.com:25443/live/6544458469/HA15G32MNS/9545.ts
+http://77448143521312746.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312746.ts
 #EXTINF:0 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="Kids",France 4
-http://x.rprotv.com:25443/live/6544458469/HA15G32MNS/9544.ts
+http://77448143521312747.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312747.ts
 #EXTINF:0 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="General",France 5
-http://x.rprotv.com:25443/live/6544458469/HA15G32MNS/9543.ts
+http://77448143521312748.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312748.ts
 #EXTINF:-1 tvg-name="Arte.fr",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:0 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+http://77448143521312769.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312769.ts
 #EXTINF:-1 tvg-name="Paris Premiere",Paris Premiere
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+http://77448143521312799.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312799.ts
 #EXTINF:0 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="Entertainment",C8
-http://x.rprotv.com:25443/live/6544458469/HA15G32MNS/9574.ts
+http://77448143521312699.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312699.ts
 #EXTINF:0 tvg-id="W9.fr" tvg-logo="https://i.imgur.com/7FFFvCN.jpg" group-title="Entertainment",W9
-http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/43241
+http://77448143521312838.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312838.ts
 #EXTINF:0 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" group-title="Entertainment",TMC
-http://premium-ks.vip:2082/rZVUDpbVXR/57FnGcs64m@ijhgc965/43226
+http://77448143521315652.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/315652.ts
 #EXTINF:0 tvg-id="NRJ12.fr" tvg-logo="https://i.imgur.com/Lv66Gcv.png" group-title="Entertainment",NRJ 12
-http://x.rprotv.com:25443/live/6544458469/HA15G32MNS/9521.ts
+http://77448143521312791.ofd0310ax.xyz:80/play/fe928175/UF5w836XCAF/312791.ts
 #EXTINF:0 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
